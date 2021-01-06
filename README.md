@@ -52,7 +52,9 @@ This project is a test from PT Dans Multi Pro
 ```
 
 ## How to use it ?
-1. First clone this repository
+1. First clone this repository 
+      - git clone https://github.com/initializrc/test-dansmultipro.git
+   
 2. Open your IDE
 3. Wait a minutes because it will take a time
 4. If it's finished then run this project and test it
