@@ -14,7 +14,7 @@ This project is a test from PT Dans Multi Pro
 | User        | /api/rest/v1/register | POST        | for register user |
 
 ## Request and Response Data
-**Register Merchant**
+**Register User**
 *Request*
 ```
 [
