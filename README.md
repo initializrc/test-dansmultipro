@@ -5,8 +5,9 @@ This project is a test from PT Dans Multi Pro
 ## Technology Stack
 1. Java 1.8
 2. Spring Boot
-3. Maven
-4. PostgreSQL
+3. Jpa Repository
+4. Maven
+5. PostgreSQL
 
 ## API Documentation
 | Module Name | Path                  | HTTP Method | Function          |
